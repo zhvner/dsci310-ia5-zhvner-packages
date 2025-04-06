@@ -2,12 +2,14 @@
 name = "pycounts"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
-authors = ["Zhanerke Zhumash"]
+authors = ["Tomas Beuzen"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+
+[tool.poetry.dev-dependencies]
 
 
 [build-system]
